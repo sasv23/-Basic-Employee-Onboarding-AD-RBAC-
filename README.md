@@ -26,8 +26,8 @@
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Sorted various users to specific OUs & Security Groups
+* Solved a mock ticket where a user was given incorrect access
 
 
 
