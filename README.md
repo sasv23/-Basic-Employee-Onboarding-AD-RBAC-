@@ -7,7 +7,7 @@
 * The solution was to build a basic employee onboarding pipeline in Active Directory. One main fix I did involved setting up the RBAC matrix and ensuring users were given access ONLY according to their role. 15 users were created, all in correct placements. I also simulated a mock ticket where a user was provisioned the incorrect level of access.
 
 ## Video Walkthrough
-(https://www.loom.com/share/509c1755dba140c485c5de8b93baad6b)
+https://www.loom.com/share/509c1755dba140c485c5de8b93baad6b
 
 ## Tools Used
 * Windows Server
